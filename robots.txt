@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://rishi-p.github.io/sitemap.xml
